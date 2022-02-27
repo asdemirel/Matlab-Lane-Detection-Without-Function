@@ -1,6 +1,6 @@
 # Matlab-Lane-Detection-Without-Function
 
-# ALGORTIM DIAGRAM
+# ALGORTIHM DIAGRAM
 ![akış](https://user-images.githubusercontent.com/56585669/155889420-02068b05-5dd7-4c85-b092-8be0085630e5.jpg)
 # ORGINAL IMAGE ROI
 ![gray orijinal](https://user-images.githubusercontent.com/56585669/155889441-ca41ea3d-3ce5-44b9-a31d-ee112bb7dd8c.PNG)
